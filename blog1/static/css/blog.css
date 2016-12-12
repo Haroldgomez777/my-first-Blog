@@ -2,18 +2,18 @@ h1 a {
     color: #FCA205;
 }
 body {
-    padding-left: 25px;
-    background-color:#d4d7db;
+    padding-left: 0px;
+    background-color:#b1c5c6;
 }
 h1 a {
 
     color: #FCA205;
-    font-family: 'Lobster';
+    font-family: 'fantasy';
 }
 .page-header {
-    background-color: #252e3d;
+    background-color: #232d28;
     margin-top: 0;
-    padding: 20px 20px 20px 40px;
+    padding: 20px 60px 20px 80px;
 }
 
 .page-header h1, .page-header h1 a, .page-header h1 a:visited, .page-header h1 a:active {
@@ -23,11 +23,11 @@ h1 a {
 }
 
 .content {
-    margin-left: 40px;
+    margin-left: 100px;
 }
 
 h1, h2, h3, h4 {
-    font-family: 'Lobster', cursive;
+    font-family: 'fantasy';
 }
 
 .date {
@@ -59,4 +59,20 @@ h1, h2, h3, h4 {
 
 .comment {
     margin: 20px 0px 20px 20px;
+}
+
+.mic {
+    color: #328242;
+    text-align: "center";
+    background-color: #04260b;
+    font-family: "Terminal";
+}
+
+#refer ul {
+    text-align:center;
+    /*
+    clear:both;
+    margin: 0;
+    padding: 0;
+    */
 }
